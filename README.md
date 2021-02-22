@@ -1,7 +1,7 @@
 # PyPackRecommendationTool
 Pack Recommendation Tool for choosing the best Pack from the list of packs provided by an service provider
-<p align="center">
-  <img width="460" height="300" src="MyPackRecTool.jpg">
+<p align="left">
+  <img width="660" height="400" src="MyPackRecTool.jpg">
 </p>
 
 
