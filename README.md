@@ -3,7 +3,9 @@ Pack Recommendation Tool for choosing the best Pack from the list of packs provi
 <p align="left">
   <img width="660" height="400" src="MyPackRecTool.jpg">
 </p>
-
+<p align="left">
+  <img src="MyPackRecTool.jpg">
+</p>
 
 ## INTRODUCTION
 The most painful task for any user who wishes to create his own pack is to know the pack which will give him the most cost savings from the list of channels he wishes to watch as the packs offer a better bargain against choosing channels as Alcarte.The PyPackRecommendation tool helps in optimizing the cost of users selection of channels by helping them identify the most cost saving packs from a plethora of packs provided by an service provider. 
