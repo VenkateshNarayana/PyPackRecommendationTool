@@ -29,4 +29,4 @@ An excel file which contains the users wishlist from the list of all channels.
 .
 
 
-[Jupyter Notebook](.PyPackRecommendationTool/MyPackRecommendationTool_GUI_Ver7.ipynb)
+[Jupyter Notebook](.MyPackRecommendationTool_GUI_Ver7.ipynb)
