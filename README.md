@@ -15,7 +15,7 @@ An excel file which contains the users wishlist from the list of all channels.
 | Description | Analysis |
 | --- | --- |
 | Open Your Choice Data         | An option to allow the user to pick his wishlist where he has already choosen the channels that he wishes to add.  |
-|                               | Image of excel file showing the user selection  |
+|                               | ![image.jpg](PyPackRecommendationTool/images/Excel_WishList.jpg)  |
 | Run PyPackRecommendation Tool | This option will read the users wishlist and then suggest the packs which offer the best savings so that it optimizes the cost. |
 |                               | Image of report  |
 | Choose Service Provider       | An option to allow user to pick the Service Provider against whom the packs should be picked to create the optimized pack. |
