@@ -11,7 +11,7 @@ The most painful task for any user who wishes to create his own pack is to know 
 An excel file which contains the users wishlist from the list of all channels.
 
 
-## PROJECT ANALYSIS
+## SALIENT FEATURES OF TOOL
 | Description | Analysis |
 | --- | --- |
 | Open Your Choice Data         | An option to allow the user to pick his wishlist where he has already choosen the channels that he wishes to add.  |
@@ -20,7 +20,8 @@ An excel file which contains the users wishlist from the list of all channels.
 |                               | ![image.jpg](/Images/RunPyPackRec_Button.jpg)   |
 | Choose Service Provider       | An option to allow user to pick the Service Provider against whom the packs should be picked to create the optimized pack. |
 |                               | ![image.jpg](/Images/SP_DropdownOption.jpg)  |
-| Create Report                 | A text report which summarizes what was his choice and what the pypack tool recommended  |
+| Create Report                 | A text report which summarizes what was users choice and what the pypack tool recommended with the overall savings(comparing alacarte |
+|                               | vs pack cost).  |
 |                               | ![image.jpg](/Images/Recommendation_Report.jpg)  |
 
 #### Conclusion
