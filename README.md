@@ -15,13 +15,13 @@ An excel file which contains the users wishlist from the list of all channels.
 | Description | Analysis |
 | --- | --- |
 | Open Your Choice Data         | An option to allow the user to pick his wishlist where he has already choosen the channels that he wishes to add.  |
-|                               | ![image.jpg](PyPackRecommendationTool/images/Excel_WishList.jpg)  |
+|                               | ![image.jpg](PyPackRecommendationTool/Images/Excel_WishList.jpg)  |
 | Run PyPackRecommendation Tool | This option will read the users wishlist and then suggest the packs which offer the best savings so that it optimizes the cost. |
-|                               | Image of report  |
+|                               | ![image.jpg](PyPackRecommendationTool/Images/Recommendation_Report.jpg)   |
 | Choose Service Provider       | An option to allow user to pick the Service Provider against whom the packs should be picked to create the optimized pack. |
-|                               | Image of dropdown  |
+|                               | ![image.jpg](PyPackRecommendationTool/Images/SP_DropdownOption.jpg)  |
 | Create Report                 | A text report which summarizes what was his choice and what the pypack tool recommended  |
-|                               | Image of sample report  |
+|                               | ![image.jpg](PyPackRecommendationTool/Images/Recommendation_Report.jpg)  |
 
 #### Conclusion
 ##### The PyPackRecommendation Tool provides a means of optimizing the cost when it is presented with a list of channels and in return it offers the user the best pack the service provider has to offer.
