@@ -20,8 +20,7 @@ An excel file which contains the users wishlist from the list of all channels.
 |                               | ![image.jpg](/Images/RunPyPackRec_Button.jpg)   |
 | Choose Service Provider       | An option to allow user to pick the Service Provider against whom the packs should be picked to create the optimized pack. |
 |                               | ![image.jpg](/Images/SP_DropdownOption.jpg)  |
-| Create Report                 | A text report which summarizes what was users choice and what the pypack tool recommended with the overall savings(comparing alacarte |
-|                               | vs pack cost).  |
+| Create Report                 | A text report which summarizes what was users choice and what the pypack tool recommended with the overall savings(comparing alacarte vs pack cost).|
 |                               | ![image.jpg](/Images/Recommendation_Report.jpg)  |
 
 #### Conclusion
