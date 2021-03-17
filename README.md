@@ -22,7 +22,8 @@ An excel file which contains the users wishlist from the list of all channels.
 |                               | ![image.jpg](/Images/SP_DropdownOption.jpg)  |
 | Create Report                 | A text report which summarizes what was users choice and what the pypack tool recommended with the overall savings(comparing alacarte vs pack cost).|
 |                               | ![image.jpg](/Images/Recommendation_Report.jpg)  |
-
+| Show Packs                    | An option to allow the user to see all the list of packs offered by a service provider, and perform a search on channel name.  |
+|                               | ![image.jpg](/Images/ShowPackDetails.jpg)  |
 #### Conclusion
 ##### The PyPackRecommendation Tool provides a means of optimizing the cost when it is presented with a list of channels and in return it offers the user the best pack the service provider has to offer.
 .
